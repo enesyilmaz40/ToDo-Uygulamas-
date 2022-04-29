@@ -1,0 +1,14 @@
+C:\Users\enes_\OneDrive\Masaüstü\C#\UYGULAMALAR ALANI\ToDoUygulama\ToDoUygulama\bin\Debug\ToDoUygulama.exe.config
+C:\Users\enes_\OneDrive\Masaüstü\C#\UYGULAMALAR ALANI\ToDoUygulama\ToDoUygulama\bin\Debug\ToDoUygulama.exe
+C:\Users\enes_\OneDrive\Masaüstü\C#\UYGULAMALAR ALANI\ToDoUygulama\ToDoUygulama\bin\Debug\ToDoUygulama.pdb
+C:\Users\enes_\OneDrive\Masaüstü\C#\UYGULAMALAR ALANI\ToDoUygulama\ToDoUygulama\obj\Debug\ToDoUygulama.csproj.AssemblyReference.cache
+C:\Users\enes_\OneDrive\Masaüstü\C#\UYGULAMALAR ALANI\ToDoUygulama\ToDoUygulama\obj\Debug\ToDoUygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\enes_\OneDrive\Masaüstü\C#\UYGULAMALAR ALANI\ToDoUygulama\ToDoUygulama\obj\Debug\ToDoUygulama.Form1.resources
+C:\Users\enes_\OneDrive\Masaüstü\C#\UYGULAMALAR ALANI\ToDoUygulama\ToDoUygulama\obj\Debug\ToDoUygulama.Properties.Resources.resources
+C:\Users\enes_\OneDrive\Masaüstü\C#\UYGULAMALAR ALANI\ToDoUygulama\ToDoUygulama\obj\Debug\ToDoUygulama.csproj.GenerateResource.cache
+C:\Users\enes_\OneDrive\Masaüstü\C#\UYGULAMALAR ALANI\ToDoUygulama\ToDoUygulama\obj\Debug\ToDoUygulama.csproj.CoreCompileInputs.cache
+C:\Users\enes_\OneDrive\Masaüstü\C#\UYGULAMALAR ALANI\ToDoUygulama\ToDoUygulama\obj\Debug\ToDoUygulama.exe
+C:\Users\enes_\OneDrive\Masaüstü\C#\UYGULAMALAR ALANI\ToDoUygulama\ToDoUygulama\obj\Debug\ToDoUygulama.pdb
+C:\Users\enes_\OneDrive\Masaüstü\C#\UYGULAMALAR ALANI\ToDoUygulama\ToDoUygulama\obj\Debug\ToDoUygulama.sistemGiris.resources
+C:\Users\enes_\OneDrive\Masaüstü\C#\UYGULAMALAR ALANI\ToDoUygulama\ToDoUygulama\obj\Debug\ToDoUygulama.yeniKayit.resources
+C:\Users\enes_\OneDrive\Masaüstü\C#\UYGULAMALAR ALANI\ToDoUygulama\ToDoUygulama\obj\Debug\ToDoUygulama.kayitListe.resources
